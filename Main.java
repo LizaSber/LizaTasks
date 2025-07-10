@@ -7,6 +7,8 @@ public class Main {
         Task_1_2_10 taskObject = new Task_1_2_10();
 
         taskObject.doubleExpression(214.7483641, 214.748976, 828.88822);
+
+        System.out.println(taskObject.doubleExpression(214.7483641, 214.748976, 828.88822));
     }
 
 }
